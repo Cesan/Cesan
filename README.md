@@ -6,7 +6,7 @@ I'm a self taught C and C# dev from Germany.
 
 - Embedded dev at [B&W Engineering](https://www.buw-engineering.com/)
 
-- Core-dev for [osu!player](https://github.com/founntain/osuplayer)
+- Core-dev for [osu!player](https://github.com/osu-player/osuplayer)
 
 Look at my cool stats:
 
