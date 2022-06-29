@@ -10,4 +10,4 @@ I'm a self taught C and C# dev from Germany.
 
 Look at my cool stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesan&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesan&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
